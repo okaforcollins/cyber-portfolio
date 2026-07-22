@@ -22,7 +22,7 @@ Azure security work.
 ## What's in this Repo
 
  **Published projects:**
-- 🔍 [](./nmap-least-privilege/)
+- 🔍 [Attack Surface Assessment & RDP Hardening — Azure Windows VM](./01-nmap-rdp-hardening)
 
 Planned writeups:
 - 🏠 **Home Lab Build**: Active Directory setup using Azure VMs (win-lab)
