@@ -21,9 +21,8 @@ Azure security work.
 
 ## What's in this Repo
 
-🚧 **Projects coming soon!** I'm actively working through my home lab 
-and SOC training. Writeups will be added weekly as I complete each 
-project. Check back soon or follow this repo for updates.
+ **Published projects:**
+- 🔍 [](./nmap-least-privilege/)
 
 Planned writeups:
 - 🏠 **Home Lab Build**: Active Directory setup using Azure VMs (win-lab)
