@@ -1,0 +1,15 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-07-16 13:48 +0000
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.0011s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE       VERSION
+135/tcp  open  msrpc         Microsoft Windows RPC
+445/tcp  open  microsoft-ds?
+3389/tcp open  ms-wbt-server
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port3389-TCP:V=7.99%I=7%D=7/16%Time=6A58E142%P=i686-pc-windows-windows%
+SF:r(TerminalServerCookie,13,"\x03\0\0\x13\x0e\xd0\0\0\x124\0\x02/\x08\0\x
+SF:02\0\0\0");
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 13.18 seconds
